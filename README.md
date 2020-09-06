@@ -1,9 +1,10 @@
-# MultiModelDataAnalysis
+# MultiModel Data Analysis Foundation
 
 Group:
 
-https://www.zhihu.com/question/349851592/answer/971584984
-
+Louis-Philippe Morency-
+Carnegie Mellon University-
+Multimodal Communication and Machine Learning Laboratory (MultiComp Lab)-
 http://multicomp.cs.cmu.edu/
 
 # Data Mining
@@ -27,3 +28,14 @@ International Conference on Research on Development in Information Retrieval (SI
 International Conference on Very Large Data Bases (VLDB)
 
 IEEE International Conference on Data Engineering (ICDE)
+
+# Computer Vision
+
+Retrival:
+
+https://github.com/pochih/CBIR
+
+https://github.com/willard-yuan/awesome-cbir-papers
+
+
+
