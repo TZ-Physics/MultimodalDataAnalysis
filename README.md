@@ -1,5 +1,11 @@
 # MultiModel Data Analysis Foundation
 
+Resource:
+
+https://github.com/pliang279/awesome-multimodal-ml
+
+https://github.com/Eurus-Holmes/Awesome-Multimodal-Research
+
 Group:
 
 Louis-Philippe Morency-
@@ -31,7 +37,9 @@ IEEE International Conference on Data Engineering (ICDE)
 
 # Computer Vision
 
-Retrival:
+Retrival
+
+Resource:
 
 https://github.com/pochih/CBIR
 
