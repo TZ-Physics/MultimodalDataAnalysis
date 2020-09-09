@@ -41,8 +41,6 @@ Retrival
 
 Resource:
 
-https://github.com/pochih/CBIR
-
 https://github.com/willard-yuan/awesome-cbir-papers
 
 
