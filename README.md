@@ -1,4 +1,4 @@
-# MultiModel Data Analysis Foundation
+# MultiModal Data Analysis Foundation
 
 Resource:
 
