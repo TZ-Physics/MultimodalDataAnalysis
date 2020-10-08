@@ -57,9 +57,13 @@ Evolutionary Computation (EC)
 
 # Computer Vision
 
-Retrival
+02Detection&Seg&OCR
 
-Resource:
+Edge Detection:
+
+https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers
+
+04Similarity&Cluster&Retrieval&Match:
 
 https://github.com/willard-yuan/awesome-cbir-papers
 
