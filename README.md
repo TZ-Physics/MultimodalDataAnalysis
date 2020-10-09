@@ -67,6 +67,6 @@ Evolutionary Computation (EC)
 
 # ContentEco
 
-[ContentRec][Resource][https://github.com/wzhe06/Ad-papers]
+[Rec][Computational Advertising][Resource][https://github.com/wzhe06/Ad-papers]
 
-[ContentRec][Resource][https://github.com/shenweichen/DeepCTR]
+[Rec][Computational Advertising][Resource][https://github.com/shenweichen/DeepCTR]
