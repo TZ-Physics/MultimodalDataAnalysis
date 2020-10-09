@@ -5,15 +5,13 @@ Group:
 Louis-Philippe Morency-
 Carnegie Mellon University-
 Multimodal Communication and Machine Learning Laboratory (MultiComp Lab)-
-http://multicomp.cs.cmu.edu/
+[Homepage: http://multicomp.cs.cmu.edu/]
 
 Resource:
 
-awesome-multimodal-ml-
-[Github:https://github.com/pliang279/awesome-multimodal-ml]
+awesome-multimodal-ml[Github:https://github.com/pliang279/awesome-multimodal-ml]
 
-Awesome-Multimodal-Research-
-[Github:https://github.com/Eurus-Holmes/Awesome-Multimodal-Research]
+Awesome-Multimodal-Research[Github:https://github.com/Eurus-Holmes/Awesome-Multimodal-Research]
 
 # Data Mining
 
@@ -61,11 +59,11 @@ Evolutionary Computation (EC)
 
 Edge Detection:
 
-https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers
+[Resource]https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers
 
 04Similarity&Cluster&Retrieval&Match:
 
-https://github.com/willard-yuan/awesome-cbir-papers
+[Resource]https://github.com/willard-yuan/awesome-cbir-papers
 
 
 
