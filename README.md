@@ -1,4 +1,4 @@
-# MultiModal Data Analysis Foundation
+# MultiModal Data Analysis
 
 Group:
 
@@ -27,7 +27,7 @@ Conference:
 
 ACM Conference on Management of Data (SIGMOD)
 
-ACM Knowledge Discovery and Data Mining (SIGKDD)
+ACM Knowledge Discovery and Data Mining (KDD)
 
 International Conference on Research on Development in Information Retrieval (SIGIR)
 
@@ -39,11 +39,17 @@ IEEE International Conference on Data Engineering (ICDE)
 
 Journal:
 
-[RL] IEEE Transactions on Games (TG)
+[RL]IEEE Transactions on Games (TG)
 
 Conference:
 
-[Recommendation System] ACM Conference on Recommender Systems （RecSys)
+[Recommendation System]ACM Conference on Recommender Systems (RecSys)
+
+Resource:
+
+[Recommendation System]https://github.com/daicoolb/RecommenderSystem-Paper
+
+[Recommendation System]https://github.com/imsheridan/DeepRec
 
 # Optimization Algorithm
 
@@ -55,15 +61,12 @@ Evolutionary Computation (EC)
 
 # Computer Vision
 
-02Detection&Seg&OCR
+[Detection&Seg&OCR][Edge Detection][Resource][https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers]
 
-Edge Detection:
+[Similarity&Cluster&Retrieval&Match][Resource][https://github.com/willard-yuan/awesome-cbir-papers]
 
-[Resource]https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers
+# ContentEco
 
-04Similarity&Cluster&Retrieval&Match:
+[ContentRec][Resource][https://github.com/wzhe06/Ad-papers]
 
-[Resource]https://github.com/willard-yuan/awesome-cbir-papers
-
-
-
+[ContentRec][Resource][https://github.com/shenweichen/DeepCTR]
