@@ -9,9 +9,9 @@ Multimodal Communication and Machine Learning Laboratory (MultiComp Lab)-
 
 Resource:
 
-awesome-multimodal-ml[Github:https://github.com/pliang279/awesome-multimodal-ml]
+awesome-multimodal-ml[Github: https://github.com/pliang279/awesome-multimodal-ml]
 
-Awesome-Multimodal-Research[Github:https://github.com/Eurus-Holmes/Awesome-Multimodal-Research]
+Awesome-Multimodal-Research[Github: https://github.com/Eurus-Holmes/Awesome-Multimodal-Research]
 
 # Data Mining
 
@@ -61,12 +61,12 @@ Evolutionary Computation (EC)
 
 # Computer Vision
 
-[Detection&Seg&OCR][Edge Detection][Resource][https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers]
+[Detection&Seg&OCR][Edge Detection][Resource]https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers
 
-[Similarity&Cluster&Retrieval&Match][Resource][https://github.com/willard-yuan/awesome-cbir-papers]
+[Similarity&Cluster&Retrieval&Match][Resource]https://github.com/willard-yuan/awesome-cbir-papers
 
 # ContentEco
 
-[Rec][Computational Advertising][Resource][https://github.com/wzhe06/Ad-papers]
+[Rec][Computational Advertising][Resource]https://github.com/wzhe06/Ad-papers
 
-[Rec][Computational Advertising][Resource][https://github.com/shenweichen/DeepCTR]
+[Rec][Computational Advertising][Resource]https://github.com/shenweichen/DeepCTR
