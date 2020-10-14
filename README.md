@@ -9,6 +9,8 @@ Multimodal Communication and Machine Learning Laboratory (MultiComp Lab)-
 
 Resource:
 
+paperswithcode[https://www.paperswithcode.com/sota]
+
 awesome-multimodal-ml[Github: https://github.com/pliang279/awesome-multimodal-ml]
 
 Awesome-Multimodal-Research[Github: https://github.com/Eurus-Holmes/Awesome-Multimodal-Research]
