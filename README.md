@@ -43,16 +43,6 @@ Journal:
 
 [RL]IEEE Transactions on Games (TG)
 
-Conference:
-
-[Recommendation System]ACM Conference on Recommender Systems (RecSys)
-
-Resource:
-
-[Recommendation System]https://github.com/daicoolb/RecommenderSystem-Paper
-
-[Recommendation System]https://github.com/imsheridan/DeepRec
-
 # Optimization Algorithm
 
 Journal:
@@ -67,8 +57,3 @@ Evolutionary Computation (EC)
 
 [Similarity&Cluster&Retrieval&Match][Resource]https://github.com/willard-yuan/awesome-cbir-papers
 
-# ContentEco
-
-[Rec][Computational Advertising][Resource]https://github.com/wzhe06/Ad-papers
-
-[Rec][Computational Advertising][Resource]https://github.com/shenweichen/DeepCTR
