@@ -55,5 +55,7 @@ Evolutionary Computation (EC)
 
 [Detection&Seg&OCR][Edge Detection][Resource]https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers
 
-[Similarity&Cluster&Retrieval&Match][Resource]https://github.com/willard-yuan/awesome-cbir-papers
+[Similarity&Cluster&Retrieval&Match][Retrieval][Resource]https://github.com/willard-yuan/awesome-cbir-papers
+
+
 
