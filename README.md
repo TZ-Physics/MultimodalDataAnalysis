@@ -116,14 +116,22 @@ its application to scene text recognition. TPAMI, 2017, 39(11):2298.
 
 [Semantic][Embedding][Paper]S. Arora, and et al. A simple but touch-to-beat baseline for sentence embedding. ICLR, 2017.
 
-# Speech
+# Audio
+
+[Review][Paper]H. Purwins, and et al. Deep learning for audio signal processing. IEEE Journal of Selected Topics in Signal Processing, 2019, 13(2):206-219. 
 
 # Time Series
 
+[UnevenlySampledData][Paper]B. Joshua, and et al. A recurrent neural network for classification of unevenly sampled variable stars. Nature Astronomy, 2017, 2:151–155.
+
 # Financial Data
+
+[Review][Paper]A. Ozhayoglu, and et al. Deep learning for financial applications : A survey. Applied Soft Computing Journal, 2020, 106384. 
 
 # Quality Assessment
 
 [Image][Saliency Prediction]P. Zhou, and et al. Learning Rich Features for Image Manipulation Detection. CVPR, 2018.
 
 # Anomaly Detection
+
+[Review][Paper]R. Chalapathy, and et al. Deep learning for anomaly detection: A survey. arXiv:1901.03407, 2019.
