@@ -92,7 +92,18 @@ its application to scene text recognition. TPAMI, 2017, 39(11):2298.
 
 [Similarity&Cluster&Retrieval&Match][Retrieval][Resource]https://github.com/willard-yuan/awesome-cbir-papers
 
+# Video
+
+# Natural Language Process
+
+# Speech
+
+# Time Series
+
+# Financial Data
+
 # Quality Assessment
 
 [Image][Saliency Prediction]P. Zhou, and et al. Learning Rich Features for Image Manipulation Detection. CVPR, 2018.
 
+# Anomaly Detection
