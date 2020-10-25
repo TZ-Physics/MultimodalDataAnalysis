@@ -81,11 +81,18 @@ Conference：
 
 # Computer Vision
 
-[Detection&Seg&OCR][Edge Detection][Resource]https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers
+[Detection&OCR&Seg][Object Detection][Paper]W. Liu, and et al. SSD: Single Shot MultiBox Detector. ECCV, 2016.
+
+[Detection&OCR&Seg][Object Detection][Paper]Joseph Redmon, Ali Farhadi. YOLOv3: An Incremental Improvement. ArXiv, 2018.
+
+[Detection&OCR&Seg][OCR][Paper]B. Shi, and et al. An end-to-end trainable neural network for image-based sequence recognition and
+its application to scene text recognition. TPAMI, 2017, 39(11):2298.
+
+[Detection&OCR&Seg][Edge Detection][Resource]https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers
 
 [Similarity&Cluster&Retrieval&Match][Retrieval][Resource]https://github.com/willard-yuan/awesome-cbir-papers
 
 # Quality Assessment
 
-[Saliency Prediction]P. Zhou, and et al. Learning Rich Features for Image Manipulation Detection. CVPR, 2018.
+[Image][Saliency Prediction]P. Zhou, and et al. Learning Rich Features for Image Manipulation Detection. CVPR, 2018.
 
