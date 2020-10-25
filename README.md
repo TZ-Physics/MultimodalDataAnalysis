@@ -15,6 +15,10 @@ awesome-multimodal-ml[Github: https://github.com/pliang279/awesome-multimodal-ml
 
 Awesome-Multimodal-Research[Github: https://github.com/Eurus-Holmes/Awesome-Multimodal-Research]
 
+Journal:
+
+[TMM]IEEE Transactions on Multimedia
+
 # Data Mining
 
 Journal:
@@ -37,7 +41,7 @@ Conference:
 
 [ICDE]IEEE International Conference on Data Engineering
 
-# Machine_Learning
+# Machine Learning
 
 Journal:
 
@@ -48,6 +52,10 @@ Journal:
 [JLMR]Journal of Machine Learning Research
 
 [AIJ]Artificial Intelligence
+
+[NMI]Nature Artificial Intelligence
+
+[PR]Pattern Recognition
 
 [RL]IEEE Transactions on Games (TG)
 
@@ -66,6 +74,10 @@ Conference：
 [ICCV]International Conference on Computer Vision
 
 [ACL]Annual Meeting of the Association for Computational Linguistics
+
+[ICLR]International Conference on Learning Representations
+
+[ECCV]European Conference on Computer Vision
 
 # Optimization Algorithm
 
@@ -94,7 +106,15 @@ its application to scene text recognition. TPAMI, 2017, 39(11):2298.
 
 # Video
 
+[OpticalFlow][Paper]E. Ilg, and et al. FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks. CVPR, 2017.
+
+[Summarization][Paper]K. Zhang, and et al. Video summarization with long short-term memory. ECCV, 2016.
+
 # Natural Language Process
+
+[Semantic][Embedding][Paper]M. Kusner, and et al. From word embeddings to document distances. ICML, 2015.
+
+[Semantic][Embedding][Paper]S. Arora, and et al. A simple but touch-to-beat baseline for sentence embedding. ICLR, 2017.
 
 # Speech
 
