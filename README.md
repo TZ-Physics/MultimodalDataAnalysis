@@ -135,3 +135,5 @@ its application to scene text recognition. TPAMI, 2017, 39(11):2298.
 # Anomaly Detection
 
 [Review][Paper]R. Chalapathy, and et al. Deep learning for anomaly detection: A survey. arXiv:1901.03407, 2019.
+
+[VideoSurveillance][Paper]J. Chen, and et al. Distributed Deep Learning Model for Intelligent Video Surveillance Systems with Edge Computing. IEEE Transactions on Industrial Informatics, 2019.
