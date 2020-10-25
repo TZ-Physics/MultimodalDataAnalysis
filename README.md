@@ -19,37 +19,65 @@ Awesome-Multimodal-Research[Github: https://github.com/Eurus-Holmes/Awesome-Mult
 
 Journal:
 
-IEEE Transactions on Knowledge and Data Engineering (TKDE)
+[TKDE]IEEE Transactions on Knowledge and Data Engineering 
 
-IEEE Transations on Big Data (TBD)
+[TBD]IEEE Transations on Big Data
 
-ACM Transactions on Information Systems (TOIS)
+[TOIS]ACM Transactions on Information Systems
 
 Conference:
 
-ACM Conference on Management of Data (SIGMOD)
+[SIGMOD]ACM Conference on Management of Data
 
-ACM Knowledge Discovery and Data Mining (KDD)
+[KDD]ACM Knowledge Discovery and Data Mining
 
-International Conference on Research on Development in Information Retrieval (SIGIR)
+[SIGIR]International Conference on Research on Development in Information Retrieval
 
-International Conference on Very Large Data Bases (VLDB)
+[VLDB]International Conference on Very Large Data Bases
 
-IEEE International Conference on Data Engineering (ICDE)
+[ICDE]IEEE International Conference on Data Engineering
 
 # Machine_Learning
 
 Journal:
 
+[TPAMI]IEEE Trans on Pattern Analysis and Machine Intelligence
+
+[IJCV]International Journal of Computer Vision
+
+[JLMR]Journal of Machine Learning Research
+
+[AIJ]Artificial Intelligence
+
 [RL]IEEE Transactions on Games (TG)
+
+Conference：
+
+[NeurIPS]Annual Conference on Neural Information Processing Systems
+
+[IJCAI]International Joint Conference on Artificial Intelligence
+
+[ICML]International Conference on Machine Learning
+
+[AAAI]AAAI Conference on Artificial Intelligence
+
+[CVPR]IEEE Conference on Computer Vision and Pattern Recognition
+
+[ICCV]International Conference on Computer Vision
+
+[ACL]Annual Meeting of the Association for Computational Linguistics
 
 # Optimization Algorithm
 
 Journal:
 
-IEEE Transactions on Evolutionary Computation (TEC)
+[TEC]IEEE Transactions on Evolutionary Computation
 
-Evolutionary Computation (EC)
+[EC]Evolutionary Computation
+
+Conference：
+
+[GECCO]Genetic and Evolutionary Computation Conference
 
 # Computer Vision
 
@@ -57,5 +85,7 @@ Evolutionary Computation (EC)
 
 [Similarity&Cluster&Retrieval&Match][Retrieval][Resource]https://github.com/willard-yuan/awesome-cbir-papers
 
+# Quality Assessment
 
+[Saliency Prediction]P. Zhou, and et al. Learning Rich Features for Image Manipulation Detection. CVPR, 2018.
 
