@@ -100,7 +100,11 @@ Conference：
 [Detection&OCR&Seg][OCR][Paper]B. Shi, and et al. An end-to-end trainable neural network for image-based sequence recognition and
 its application to scene text recognition. TPAMI, 2017, 39(11):2298.
 
-[Detection&OCR&Seg][UnsupervisedSeg][Paper]X. Ji, and et al. Invariant Information Clustering for Unsupervised Image Classification and Segmentation. ICCV, 2019. [https://github.com/xu-ji/IIC]
+[Detection&OCR&Seg][UnsupervisedSeg][Paper]X. Ji, and et al. Invariant Information Clustering for Unsupervised Image Classification and Segmentation. ICCV, 2019. 
+[https://github.com/xu-ji/IIC]
+
+[Detection&OCR&Seg][UnsupervisedSeg][Paper]W. Kim, and et al. Unsupervised Learning of Image Segmentation Based on Differentiable Feature Clustering. IEEE Transactions on Image Processing, 2020.
+[https://github.com/kanezaki/pytorch-unsupervised-segmentation-tip]
 
 [Detection&OCR&Seg][Edge Detection][Resource]https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers
 
