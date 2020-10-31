@@ -146,7 +146,11 @@ its application to scene text recognition. TPAMI, 2017, 39(11):2298.
 
 # Quality Assessment
 
-[Image][Saliency Prediction]X. Zhou, and et al. BASNet: Boundary-Aware Salient Object Detection. CVPR, 2019.
+[Image][Saliency Prediction][Paper]X. Zhou, and et al. BASNet: Boundary-Aware Salient Object Detection. CVPR, 2019.
+[https://github.com/NathanUA/BASNet]
+
+[Image][Saliency Prediction][Paper]X. Qin, and et al. U^2-Net Going Deeper with Nested U-Structure for Salient Object Detection. Pattern Recognition, 2020, 106, 104404.
+[https://github.com/NathanUA/U-2-Net]
 
 # Anomaly Detection
 
