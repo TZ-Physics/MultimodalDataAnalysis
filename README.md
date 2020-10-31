@@ -1,4 +1,4 @@
-# MultiModal Data Analysis
+# Multimedia/MultiModal Data Analysis
 
 Group:
 
@@ -6,6 +6,14 @@ Louis-Philippe Morency-
 Carnegie Mellon University-
 Multimodal Communication and Machine Learning Laboratory (MultiComp Lab)-
 [Homepage: http://multicomp.cs.cmu.edu/]
+
+Journal:
+
+[TMM]IEEE Transactions on Multimedia
+
+[MM]IEEE Multimedia Magazine
+
+[IF]Information Fusion
 
 Resource:
 
@@ -15,9 +23,11 @@ awesome-multimodal-ml[Github: https://github.com/pliang279/awesome-multimodal-ml
 
 Awesome-Multimodal-Research[Github: https://github.com/Eurus-Holmes/Awesome-Multimodal-Research]
 
-Journal:
+paper:
 
-[TMM]IEEE Transactions on Multimedia
+[Review]S. Chen. Multimedia Deep Learning. IEEE Multimedia Magazine, 2019, 26(1):5-7.
+
+[Review]T. Meng, and et al. A survey on machine learning for data fusion, Information Fusion, 2020, 57, 115-129.
 
 # Data Mining
 
@@ -137,7 +147,6 @@ its application to scene text recognition. TPAMI, 2017, 39(11):2298.
 # Quality Assessment
 
 [Image][Saliency Prediction]X. Zhou, and et al. BASNet: Boundary-Aware Salient Object Detection. CVPR, 2019.
-
 
 # Anomaly Detection
 
