@@ -1,13 +1,13 @@
 # Multimedia/MultiModal Data Analysis
 
-Group:
+## Group
 
 Louis-Philippe Morency-
 Carnegie Mellon University-
 Multimodal Communication and Machine Learning Laboratory (MultiComp Lab)-
 [Homepage: http://multicomp.cs.cmu.edu/]
 
-Journal:
+## Journal
 
 [TMM]IEEE Transactions on Multimedia
 
@@ -15,7 +15,7 @@ Journal:
 
 [IF]Information Fusion
 
-Resource:
+## Resource
 
 paperswithcode[https://www.paperswithcode.com/sota]
 
@@ -23,15 +23,29 @@ awesome-multimodal-ml[Github: https://github.com/pliang279/awesome-multimodal-ml
 
 Awesome-Multimodal-Research[Github: https://github.com/Eurus-Holmes/Awesome-Multimodal-Research]
 
-paper:
+## paper
 
 [Review]S. Chen. Multimedia Deep Learning. IEEE Multimedia Magazine, 2019, 26(1):5-7.
 
 [Review]T. Meng, and et al. A survey on machine learning for data fusion, Information Fusion, 2020, 57, 115-129.
 
+# Quality Assessment
+
+[Image][Saliency Prediction][Paper]X. Zhou, and et al. BASNet: Boundary-Aware Salient Object Detection. CVPR, 2019.
+[https://github.com/NathanUA/BASNet]
+
+[Image][Saliency Prediction][Paper]X. Qin, and et al. U^2-Net Going Deeper with Nested U-Structure for Salient Object Detection. Pattern Recognition, 2020, 106, 104404.
+[https://github.com/NathanUA/U-2-Net]
+
+# Anomaly Detection
+
+[Review][Paper]R. Chalapathy, and et al. Deep learning for anomaly detection: A survey. arXiv:1901.03407, 2019.
+
+[VideoSurveillance][Paper]J. Chen, and et al. Distributed Deep Learning Model for Intelligent Video Surveillance Systems with Edge Computing. IEEE Transactions on Industrial Informatics, 2019.
+
 # Data Mining
 
-Journal:
+## Journal
 
 [TKDE]IEEE Transactions on Knowledge and Data Engineering 
 
@@ -39,7 +53,7 @@ Journal:
 
 [TOIS]ACM Transactions on Information Systems
 
-Conference:
+## Conference
 
 [SIGMOD]ACM Conference on Management of Data
 
@@ -50,6 +64,18 @@ Conference:
 [VLDB]International Conference on Very Large Data Bases
 
 [ICDE]IEEE International Conference on Data Engineering
+
+# Optimization Algorithm
+
+## Journal
+
+[TEC]IEEE Transactions on Evolutionary Computation
+
+[EC]Evolutionary Computation
+
+## Conference
+
+[GECCO]Genetic and Evolutionary Computation Conference
 
 # Machine Learning
 
@@ -89,19 +115,7 @@ Conference：
 
 [ECCV]European Conference on Computer Vision
 
-# Optimization Algorithm
-
-Journal:
-
-[TEC]IEEE Transactions on Evolutionary Computation
-
-[EC]Evolutionary Computation
-
-Conference：
-
-[GECCO]Genetic and Evolutionary Computation Conference
-
-# Computer Vision
+## Computer Vision
 
 [Detection&OCR&Seg][Object Detection][Paper]W. Liu, and et al. SSD: Single Shot MultiBox Detector. ECCV, 2016.
 
@@ -120,40 +134,27 @@ its application to scene text recognition. TPAMI, 2017, 39(11):2298.
 
 [Similarity&Cluster&Retrieval&Match][Retrieval][Resource]https://github.com/willard-yuan/awesome-cbir-papers
 
-# Video
+## Video
 
 [OpticalFlow][Paper]E. Ilg, and et al. FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks. CVPR, 2017.
 
 [Summarization][Paper]K. Zhang, and et al. Video summarization with long short-term memory. ECCV, 2016.
 
-# Natural Language Process
+## Natural Language Process
 
 [Semantic][Embedding][Paper]M. Kusner, and et al. From word embeddings to document distances. ICML, 2015.
 
 [Semantic][Embedding][Paper]S. Arora, and et al. A simple but touch-to-beat baseline for sentence embedding. ICLR, 2017.
 
-# Audio
+## Audio
 
 [Review][Paper]H. Purwins, and et al. Deep learning for audio signal processing. IEEE Journal of Selected Topics in Signal Processing, 2019, 13(2):206-219. 
 
-# Time Series
+## Time Series
 
 [UnevenlySampledData][Paper]B. Joshua, and et al. A recurrent neural network for classification of unevenly sampled variable stars. Nature Astronomy, 2017, 2:151–155.
 
-# Financial Data
+## Financial Data
 
 [Review][Paper]A. Ozhayoglu, and et al. Deep learning for financial applications : A survey. Applied Soft Computing Journal, 2020, 106384. 
 
-# Quality Assessment
-
-[Image][Saliency Prediction][Paper]X. Zhou, and et al. BASNet: Boundary-Aware Salient Object Detection. CVPR, 2019.
-[https://github.com/NathanUA/BASNet]
-
-[Image][Saliency Prediction][Paper]X. Qin, and et al. U^2-Net Going Deeper with Nested U-Structure for Salient Object Detection. Pattern Recognition, 2020, 106, 104404.
-[https://github.com/NathanUA/U-2-Net]
-
-# Anomaly Detection
-
-[Review][Paper]R. Chalapathy, and et al. Deep learning for anomaly detection: A survey. arXiv:1901.03407, 2019.
-
-[VideoSurveillance][Paper]J. Chen, and et al. Distributed Deep Learning Model for Intelligent Video Surveillance Systems with Edge Computing. IEEE Transactions on Industrial Informatics, 2019.
