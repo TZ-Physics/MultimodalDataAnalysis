@@ -23,13 +23,13 @@ awesome-multimodal-ml[Github: https://github.com/pliang279/awesome-multimodal-ml
 
 Awesome-Multimodal-Research[Github: https://github.com/Eurus-Holmes/Awesome-Multimodal-Research]
 
-## paper
+## Multimodal Paper
 
 [Review]S. Chen. Multimedia Deep Learning. IEEE Multimedia Magazine, 2019, 26(1):5-7.
 
 [Review]T. Meng, and et al. A survey on machine learning for data fusion, Information Fusion, 2020, 57, 115-129.
 
-# Quality Assessment
+## Quality Assessment
 
 [Image][Saliency Prediction][Paper]X. Zhou, and et al. BASNet: Boundary-Aware Salient Object Detection. CVPR, 2019.
 [https://github.com/NathanUA/BASNet]
@@ -37,7 +37,7 @@ Awesome-Multimodal-Research[Github: https://github.com/Eurus-Holmes/Awesome-Mult
 [Image][Saliency Prediction][Paper]X. Qin, and et al. U^2-Net Going Deeper with Nested U-Structure for Salient Object Detection. Pattern Recognition, 2020, 106, 104404.
 [https://github.com/NathanUA/U-2-Net]
 
-# Anomaly Detection
+## Anomaly Detection
 
 [Review][Paper]R. Chalapathy, and et al. Deep learning for anomaly detection: A survey. arXiv:1901.03407, 2019.
 
