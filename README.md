@@ -79,7 +79,7 @@ Awesome-Multimodal-Research[Github: https://github.com/Eurus-Holmes/Awesome-Mult
 
 # Machine Learning
 
-Journal:
+## Journal
 
 [TPAMI]IEEE Trans on Pattern Analysis and Machine Intelligence
 
@@ -95,7 +95,7 @@ Journal:
 
 [RL]IEEE Transactions on Games (TG)
 
-Conference：
+## Conference
 
 [NeurIPS]Annual Conference on Neural Information Processing Systems
 
