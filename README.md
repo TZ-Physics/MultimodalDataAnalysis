@@ -23,7 +23,7 @@ awesome-multimodal-ml[Github: https://github.com/pliang279/awesome-multimodal-ml
 
 Awesome-Multimodal-Research[Github: https://github.com/Eurus-Holmes/Awesome-Multimodal-Research]
 
-## Multimodal Paper
+## Paper
 
 [Review]S. Chen. Multimedia Deep Learning. IEEE Multimedia Magazine, 2019, 26(1):5-7.
 
