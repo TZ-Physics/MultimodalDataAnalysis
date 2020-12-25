@@ -157,4 +157,3 @@ its application to scene text recognition. TPAMI, 2017, 39(11):2298.
 ## Financial Data
 
 [Review][Paper]A. Ozhayoglu, and et al. Deep learning for financial applications : A survey. Applied Soft Computing Journal, 2020, 106384. 
-
