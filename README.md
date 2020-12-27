@@ -29,6 +29,9 @@ Awesome-Multimodal-Research[Github: https://github.com/Eurus-Holmes/Awesome-Mult
 
 [Review]T. Meng, and et al. A survey on machine learning for data fusion, Information Fusion, 2020, 57, 115-129.
 
+[Sentiment]CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality. ACL, 2020.
+[https://github.com/thuiar/MMSA]
+
 ## Quality Assessment
 
 [Image][Saliency Prediction][Paper]X. Zhou, and et al. BASNet: Boundary-Aware Salient Object Detection. CVPR, 2019.
@@ -115,7 +118,13 @@ Awesome-Multimodal-Research[Github: https://github.com/Eurus-Holmes/Awesome-Mult
 
 [ECCV]European Conference on Computer Vision
 
+## Few Shot Learning
+
+[MetaLearing][Resource]https://github.com/floodsung/Meta-Learning-Papers
+
 ## Computer Vision
+
+[Recognition][Backbone]Training data-efficient image transformers & distillation through attention. ArXiv, 2020. [https://github.com/facebookresearch/deit]
 
 [Detection&OCR&Seg][Object Detection][Paper]W. Liu, and et al. SSD: Single Shot MultiBox Detector. ECCV, 2016.
 
@@ -124,6 +133,9 @@ Awesome-Multimodal-Research[Github: https://github.com/Eurus-Holmes/Awesome-Mult
 [Detection&OCR&Seg][OCR][Paper]B. Shi, and et al. An end-to-end trainable neural network for image-based sequence recognition and
 its application to scene text recognition. TPAMI, 2017, 39(11):2298.
 
+[Detection&OCR&Seg][OCR][Paper]PP-OCR A Practical Ultra Lightweight OCR System. ArXiv, 2020.
+[https://github.com/PaddlePaddle/PaddleOCR]
+
 [Detection&OCR&Seg][UnsupervisedSeg][Paper]X. Ji, and et al. Invariant Information Clustering for Unsupervised Image Classification and Segmentation. ICCV, 2019. 
 [https://github.com/xu-ji/IIC]
 
@@ -131,6 +143,11 @@ its application to scene text recognition. TPAMI, 2017, 39(11):2298.
 [https://github.com/kanezaki/pytorch-unsupervised-segmentation-tip]
 
 [Detection&OCR&Seg][Edge Detection][Resource]https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers
+
+[Detection&OCR&Seg][Surface Defect Detection][Resource]https://github.com/Charmve/Surface-Defect-Detection
+
+[Face&Pose][Pose]OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields. TPMAI, 2019.
+[https://github.com/CMU-Perceptual-Computing-Lab/openpose]
 
 [Similarity&Cluster&Retrieval&Match][Retrieval][Resource]https://github.com/willard-yuan/awesome-cbir-papers
 
