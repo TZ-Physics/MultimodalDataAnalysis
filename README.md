@@ -29,6 +29,9 @@ Awesome-Multimodal-Research[Github: https://github.com/Eurus-Holmes/Awesome-Mult
 
 [Review]T. Meng, and et al. A survey on machine learning for data fusion, Information Fusion, 2020, 57, 115-129.
 
+[Classification]RMDL: Random Multimodel Deep Learning for Classification. ICISDM, 2018.
+[https://github.com/kk7nc/RMDL]
+
 [Sentiment]CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality. ACL, 2020.
 [https://github.com/thuiar/MMSA]
 
@@ -112,6 +115,10 @@ Awesome-Multimodal-Research[Github: https://github.com/Eurus-Holmes/Awesome-Mult
 
 [ECCV]European Conference on Computer Vision
 
+## AutoML
+
+[Resource]Neural Network Intelligence.[https://github.com/microsoft/nni]
+
 ## Few Shot Learning
 
 [MetaLearing][Resource]https://github.com/floodsung/Meta-Learning-Papers
@@ -131,6 +138,8 @@ Awesome-Multimodal-Research[Github: https://github.com/Eurus-Holmes/Awesome-Mult
 
 ## Computer Vision
 
+[Recognition][Resource]https://github.com/weiaicunzai/awesome-image-classification
+
 [Recognition][Backbone]Training data-efficient image transformers & distillation through attention. ArXiv, 2020. [https://github.com/facebookresearch/deit]
 
 [Recognition][Font][Tools]https://github.com/bingjunguo/script_identification
@@ -141,6 +150,8 @@ Awesome-Multimodal-Research[Github: https://github.com/Eurus-Holmes/Awesome-Mult
 
 [Detection&OCR&Seg][Object Detection][Paper]MMDetection: Open MMLab Detection Toolbox and Benchmark. ArXiv, 2019.
 [https://github.com/open-mmlab/mmdetection]
+
+[Detection&OCR&Seg][Human Detection][Tools]https://github.com/ITCoders/Human-detection-and-Tracking
 
 [Detection&OCR&Seg][OCR][Paper]B. Shi, and et al. An end-to-end trainable neural network for image-based sequence recognition and
 its application to scene text recognition. TPAMI, 2017, 39(11):2298.
@@ -175,6 +186,8 @@ its application to scene text recognition. TPAMI, 2017, 39(11):2298.
 [Similarity&Cluster&Retrieval&Match][Retrieval][Resource]https://github.com/willard-yuan/awesome-cbir-papers
 
 ## Video
+
+[Resource]https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis
 
 [OpticalFlow][Paper]E. Ilg, and et al. FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks. CVPR, 2017.
 
