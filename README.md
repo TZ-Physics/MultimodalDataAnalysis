@@ -119,22 +119,22 @@ Awesome-Multimodal-Research[Github: https://github.com/Eurus-Holmes/Awesome-Mult
 
 [Resource]Neural Network Intelligence.[https://github.com/microsoft/nni]
 
-## Few Shot Learning
+## Model Compression
 
-[MetaLearing][Resource]https://github.com/floodsung/Meta-Learning-Papers
-
-[Object Detection]Few-shot Object Detection via Feature Reweighting. ICCV, 2019.
-[https://github.com/bingykang/Fewshot_Detection]
+[Object Detection]Learning Efficient Convolutional Networks Through Network Slimming. ICCV, 2017.
+[https://github.com/tanluren/yolov3-channel-and-layer-pruning]
 
 ## Trasfer learning
 
 [Vision]Taskonomy: Disentangling Task Transfer Learning. CVPR, 2018.
 [https://github.com/StanfordVL/taskonomy]
 
-## Model Compression
+## Few Shot Learning
 
-[Object Detection]Learning Efficient Convolutional Networks Through Network Slimming. ICCV, 2017.
-[https://github.com/tanluren/yolov3-channel-and-layer-pruning]
+[MetaLearing][Resource]https://github.com/floodsung/Meta-Learning-Papers
+
+[Object Detection]Few-shot Object Detection via Feature Reweighting. ICCV, 2019.
+[https://github.com/bingykang/Fewshot_Detection]
 
 ## Computer Vision
 
