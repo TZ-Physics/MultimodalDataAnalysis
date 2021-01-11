@@ -138,6 +138,8 @@ Awesome-Multimodal-Research[Github: https://github.com/Eurus-Holmes/Awesome-Mult
 
 ## Computer Vision
 
+[Resource]https://github.com/jbhuang0604/awesome-computer-vision
+
 [Recognition][Resource]https://github.com/weiaicunzai/awesome-image-classification
 
 [Recognition][Backbone]Training data-efficient image transformers & distillation through attention. ArXiv, 2020. [https://github.com/facebookresearch/deit]
